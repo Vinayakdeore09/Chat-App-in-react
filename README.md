@@ -29,6 +29,7 @@ A real-time chat application built with **React.js**, **Node.js**, and **Socket.
 ---
 
 ## 📦 Project Structure
+
 Chat-App-in-react/
 │
 ├── client/ # React Frontend
@@ -41,7 +42,6 @@ Chat-App-in-react/
 │ ├── index.js
 │ └── utils/
 │
-├── package.json # Root config (if monorepo)
 └── README.md
 
 ---
@@ -54,7 +54,7 @@ Chat-App-in-react/
 git clone https://github.com/Vinayakdeore09/Chat-App-in-react.git
 cd Chat-App-in-react
 
-### 2. Start the Backend (Node.js + Socket.io)
+###2. Start the Backend (Node.js + Socket.io)
 
 cd server
 npm install
